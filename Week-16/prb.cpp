@@ -13,7 +13,7 @@ int main(){
 
 ios::sync_with_stdio(false);
 cin.tie(NULL);
-  cout<<"we ready to git push"<<endl;
+  cout<<"we ready to git push lol"<<endl;
 
 
 
